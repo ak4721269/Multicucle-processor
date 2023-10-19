@@ -1,1 +1,1 @@
-# Multicucle-processor
+# Multicycle-processor
