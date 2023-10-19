@@ -1,0 +1,7 @@
+Running: xsim.dir/main_control_multicycle_behav/xsimk -simmode gui -wdb main_control_multicycle_behav.wdb -simrunnum 0 -socket 50973
+Design successfully loaded
+Design Loading Memory Usage: 33576 KB (Peak: 33696 KB)
+Design Loading CPU Usage: 60 ms
+Simulation completed
+Simulation Memory Usage: 115312 KB (Peak: 172844 KB)
+Simulation CPU Usage: 130 ms

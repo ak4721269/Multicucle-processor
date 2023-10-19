@@ -1,0 +1,1 @@
+-wto "16306101acd8473681b56004b7bbddbe" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "main_control_multicycle_behav" "xil_defaultlib.main_control_multicycle" -log "elaborate.log" 

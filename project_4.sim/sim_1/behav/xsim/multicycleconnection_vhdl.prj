@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_4.srcs/sources_1/imports/sources_1/new/ALUcontrol.vhd" \
+"../../../../project_4.srcs/sources_1/new/Instruction_register.vhd" \
+"../../../../project_4.srcs/sources_1/imports/sources_1/new/Registerfile.vhd" \
+"../../../../project_4.srcs/sources_1/new/Registers.vhd" \
+"../../../../project_4.srcs/sources_1/imports/sources_1/imports/Downloads/Signextend.vhd" \
+"../../../../project_4.srcs/sources_1/imports/sources_1/imports/ubuntu/alu1.vhd" \
+"../../../../project_4.srcs/sources_1/new/main_control_multicycle.vhd" \
+"../../../../project_4.srcs/sources_1/new/memory.vhd" \
+"../../../../project_4.srcs/sources_1/imports/sources_1/imports/Downloads/mux.vhd" \
+"../../../../project_4.srcs/sources_1/new/mux4to1.vhd" \
+"../../../../project_4.srcs/sources_1/new/multicycleconnection.vhd" \
+
+# Do not sort compile order
+nosort

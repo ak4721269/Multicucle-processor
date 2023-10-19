@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/imports/sources_1/imports/Downloads/Signextend.vhd,1679840753,vhdl,,,,signextend,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/imports/sources_1/imports/Downloads/mux.vhd,1680517305,vhdl,,,,mux,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/imports/sources_1/imports/ubuntu/alu1.vhd,1684054554,vhdl,,,,alu,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/imports/sources_1/new/ALUcontrol.vhd,1682272689,vhdl,,,,alucontrol,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/imports/sources_1/new/Registerfile.vhd,1684053145,vhdl,,,,registerfile,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/new/Instruction_register.vhd,1684055969,vhdl,,,,instruction_register,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/new/Registers.vhd,1684047908,vhdl,,,,registers,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/new/main_control_multicycle.vhd,1681990203,vhdl,,,,main_control_multicycle,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/new/memory.vhd,1682271276,vhdl,,,,memory,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/new/multicycleconnection.vhd,1682428998,vhdl,,,,multicycleconnection,,,,,,,,
+/home/ubuntu/vivado/project_4/project_4.srcs/sources_1/new/mux4to1.vhd,1681420202,vhdl,,,,mux4to1,,,,,,,,
